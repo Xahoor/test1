@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" modified="2023-03-23T23:00:02.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="CRSbBgHLcpblBnkVYx9-" version="21.1.0" type="google">
+  <diagram name="Page-1" id="PySHGKWTUgh7LuTu_hze">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-1" value="PC" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" vertex="1" parent="1">
+          <mxGeometry x="220" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-2" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="580" as="sourcePoint" />
+            <mxPoint x="460" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-3" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="640" as="sourcePoint" />
+            <mxPoint x="480" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-5" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="660" y="425" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-6" value="PC" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" vertex="1" parent="1">
+          <mxGeometry x="340" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-7" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="K-STR9HuUTFIaN35eDOQ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="510" as="sourcePoint" />
+            <mxPoint x="650" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-8" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="850" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-9" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22;" edge="1" parent="1" source="K-STR9HuUTFIaN35eDOQ-5" target="K-STR9HuUTFIaN35eDOQ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="520" as="sourcePoint" />
+            <mxPoint x="670" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-10" value="PC" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" vertex="1" parent="1">
+          <mxGeometry x="880" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-11" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="710" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-12" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="K-STR9HuUTFIaN35eDOQ-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="610" as="sourcePoint" />
+            <mxPoint x="860" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-13" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.91;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="K-STR9HuUTFIaN35eDOQ-11" target="K-STR9HuUTFIaN35eDOQ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="630" as="sourcePoint" />
+            <mxPoint x="870" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-14" value="Switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-15" value="Switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-16" value="Router" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-17" value="Router" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;rotation=10;" vertex="1" parent="1">
+          <mxGeometry x="630" y="400" width="410" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="K-STR9HuUTFIaN35eDOQ-19" value="International path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=10;" vertex="1" parent="1">
+          <mxGeometry x="780" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
