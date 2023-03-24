@@ -4,3 +4,5 @@
 
 ![image](github.PNG)
 
+![file](network_diagram.drawio)
+
